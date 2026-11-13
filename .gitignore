@@ -17,7 +17,6 @@ test-results
 playwright-report
 package-lock.json
 
-.vscode
 .github/instructions
 .github/skills
 .github/copilot-instructions.md
@@ -27,3 +26,4 @@ AGENTS.md
 .claude
 .pi
 .patch
+config.bat
